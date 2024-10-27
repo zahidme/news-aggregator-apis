@@ -30,6 +30,7 @@ A RESTful API for aggregating news articles from multiple sources, enabling user
    git clone https://github.com/zahidme/news-aggregator-apis.git
    cd news-aggregator-api
 
+   cp .env.example .env
    docker-compose up --build -d
    docker-compose exec app composer install
    docker-compose exec app php artisan key:generate
