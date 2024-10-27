@@ -25,7 +25,7 @@ A RESTful API for aggregating news articles from multiple sources, enabling user
 
 ## Setup Instructions
 
-1. *Clone the Repository*
+1. *Clone the Repository and setup*
    ```bash
    git clone https://github.com/zahidme/news-aggregator-apis.git
    cd news-aggregator-api
