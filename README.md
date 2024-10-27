@@ -18,7 +18,7 @@ A RESTful API for aggregating news articles from multiple sources, enabling user
 - PHP 8.1+
 - Laravel 11
 - Docker & Docker Compose
-- MySQL or PostgreSQL
+- MySQL
 - API keys for selected news sources
 
 ---
